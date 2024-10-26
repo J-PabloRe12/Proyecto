@@ -1,0 +1,18 @@
+{
+    "NEVERA": {
+        "cantidad": 3,
+        "precio": 500000.0
+    },
+    "TELEVISOR": {
+        "cantidad": 6,
+        "precio": 2000000.0
+    },
+    "CELULAR": {
+        "cantidad": 5,
+        "precio": 3000000.0
+    },
+    "CARGADORES": {
+        "cantidad": 3,
+        "precio": 120000.0
+    }
+}
